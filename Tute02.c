@@ -8,9 +8,13 @@ int main()
   printf(" Input the distance the van has travelled : ");
   scanf("%d" , &distance );
   
-  if (Distance -> 20 )
+  if (Distance -> 30 )
   {
-    Amount =  distance * 50 ;
+    amount =  distance * 50 ;
+  }
+  else 
+  {
+    amount =  
     
   
   
