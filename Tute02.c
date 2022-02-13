@@ -3,19 +3,28 @@
 int main() 
 {
   int distance;
-  printf(" inp
+  int amount;
+  
+  printf(" Input the distance the van has travelled : ");
+  scanf("%d" , &distance );
+  
+  if (Distance -> 20 )
+  {
+    Amount =  distance * 50 ;
+    
   
   
   
   
-•	
+  
+
 •	The first 30 km is at a rate of 50/= per km.
 •	The remaining distance is calculated at the rate of 40/= per km.
 
 
 e.g.
 
-Distance -> 20
+
 Amount = 20 x 50 = 1000
 
 
